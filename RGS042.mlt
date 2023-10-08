@@ -1,0 +1,431 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.10.31" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:10:14.824">
+    <property name="length">00:10:14.824</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Documents\Thirupavai\Imported\rgs\RGS042.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c0fda37d0e1b4991b8851b1c2227c6b3</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0001.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">bf7b59dd33c44dba9e6615a23257e7fb</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0002.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">0a1b29b92c3849389d8210a0aedba582</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0003.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">ecbbe29223904e03a485423e1e9dd275</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0004.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">99f6009826e140df9f772c31f226e87c</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0005.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">206c032f7bdc4467a6d14454a83b954c</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0006.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">e62ed17113594a45867343a7ab7df3f8</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0007.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">0ff4d1b23e744b9d8b4312625bed27c2</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0008.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">9328b7df5655491f936a0feace9a7310</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0009.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">fd765b1c722e479cbd17aaf9182ba9c2</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0010.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">98c23fa5c7d34965970a66867412cccc</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0011.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">ae18812092ed4a5cba68d6416cdf42b7</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0012.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2023-09-28T08:22:46</property>
+    <property name="shotcut:hash">0f6fb088ecbc4426a18aac770897c76a</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:10:14.824"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:10:14.824">
+    <property name="length">00:10:14.824</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:10:14.824"/>
+  </playlist>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0001.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">bf7b59dd33c44dba9e6615a23257e7fb</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0001.jpg</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0002.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">0a1b29b92c3849389d8210a0aedba582</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0002.jpg</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0003.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">ecbbe29223904e03a485423e1e9dd275</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0003.jpg</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0004.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">99f6009826e140df9f772c31f226e87c</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0004.jpg</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0005.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">206c032f7bdc4467a6d14454a83b954c</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0005.jpg</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0006.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">e62ed17113594a45867343a7ab7df3f8</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0006.jpg</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0007.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">0ff4d1b23e744b9d8b4312625bed27c2</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0007.jpg</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0008.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">9328b7df5655491f936a0feace9a7310</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0008.jpg</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0009.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">fd765b1c722e479cbd17aaf9182ba9c2</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0009.jpg</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0010.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">98c23fa5c7d34965970a66867412cccc</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0010.jpg</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0011.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">ae18812092ed4a5cba68d6416cdf42b7</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0011.jpg</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0012.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">0f6fb088ecbc4426a18aac770897c76a</property>
+    <property name="creation_time">2021-07-10T13:27:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">C:\Users\rajar\Videos\raghavashathakam\RGS042-Slide0012.jpg</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:02.200"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:56.400"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:92.100"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:10.950"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:92.225"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:11.225"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:90.600"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:11.100"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:91.500"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:11.650"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:93.725"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:51.235"/>
+  </playlist>
+  <chain id="chain1" out="00:10:14.824">
+    <property name="length">00:10:14.824</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:\Users\rajar\Documents\Thirupavai\Imported\rgs\RGS042.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">c0fda37d0e1b4991b8851b1c2227c6b3</property>
+    <property name="shotcut:caption">RGS042.wav</property>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain1" in="00:00:00.000" out="00:10:14.824"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.10.31" in="00:00:00.000" out="00:10:14.824">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
