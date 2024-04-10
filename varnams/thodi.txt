@@ -1,43 +1,60 @@
-Ṡ,,ṠNDPDNNDPMGMN
-NDPMGRSRGMPGMPDN
-ṠṘĠNṠṘDNDĠṘṠNDPM
-D,,,,,ṠNDPMGMPDN
+Pallavi
 
-NDDNDDNGMNDPMGRS
-MGMPDNṠNDPDNṠ,DP
-DNṠṘĠṘĠṀĠṘNĠṘṠND
-NṠṘDNDĠṘṠNDPMPDN
+Ṡ   ,   ,   Ṡ   N   D   P   D       N   N   D   P   M   G   M   N   |
+N   D   P   M   G   R   S   R   |   G   M   P   G   M   P   D   N   |
+Ṡ   Ṙ   Ġ   N   Ṡ   Ṙ   D   N       D   Ġ   Ṙ   Ṡ   N   D   P   M   |
+D   ,   ,   ,   ,   ,   Ṡ   N   |   D   P   M   G   M   P   D   N   |
 
-ṠṘṠNDNṠ,NṘNDPMRM
-PDNDNṠNDNṠNṘṠ,,,
+Anupallavi
 
-DNDĠṘṘṀĠṘṠNĠṘṠND
-NĠṘNṘNDNDĠṘNDMDN
+N   D   D   N   D   D   N   G       M   N   D   P   M   G   R   S   |
+M   G   M   P   D   N   Ṡ   N   |   D   P   D   N   Ṡ   ,   D   P   |
+D   N   Ṡ   Ṙ   Ġ   Ṙ   Ġ   Ṁ       Ġ   Ṙ   N   Ġ   Ṙ   Ṡ   N   D   |
+N   Ṡ   Ṙ   D   N   D   Ġ   Ṙ   |   Ṡ   N   D   P   M   P   D   N   |
 
-D,,NṘṠṠNNDPMGRSR
-G,,M,,PDNṠ,ṠNDPM
+Muktayi Swaram
 
-G,,M,,G,,,R,Ṇ,R,
-S,,Ḍ,,Ṇ,,S,R,G,M
+Ṡ   Ṙ   Ṡ   N   D   N   Ṡ   ,       N   Ṙ   N   D   P   M   R   M   |
+P   D   N   D   N   Ṡ   N   D   |   N   Ṡ   N   Ṙ   Ṡ   ,   ,   ,   |
+D   N   D   Ġ   Ṙ   Ṙ   Ṁ   Ġ       Ṙ   Ṡ   N   Ġ   Ṙ   Ṡ   N   D   |
+N   Ġ   Ṙ   N   Ṙ   N   D   N   |   D   Ġ   Ṙ   N   D   M   D   N   |
 
-D,NDDMGMD,MG,RSṆ
-S,RG,MDNṠN,D,MGM
+Charanam
 
-MDNṠ,NDNṠN,DṘṠND
-D,MG,MNDMDNṠD,,N
-DMGRSDMGRSRGMDNṠ
-ṘĠṘ,NDNDMGRṆSRGM
+D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
+G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
 
-DNDMGMNDMGRSDMGR
-SGRṆḌṆRṆḌṆSRGMDM
-DNṠṘNDNṠṘĠṘNDNDM
-GRSĠṘNDMGRSṆSRGM
+Chitta Swaram 1
 
-Ṡ,,NDNṠ,,NDNN,,D
-MDND,ṘṠND,MG,MDN
-ṘNDMGRNDMGRDMGRS
-ṆSRGMDSRGMDMDNṠṘ
-ṠṘĠṘ,NDNĠṘ,NDNṘN
-,DMDNṠ,NDM,GMDDN
-ṠṘĠNṠṘDNṠMDNGMDN
-ṠṘĠṀĠṘNDMGRṆSRGM
+G   ,   ,   M   ,   ,   G   ,       ,   ,   R   ,   Ṇ   ,   R   ,   |
+S   ,   ,   Ḍ   ,   ,   Ṇ   ,   |   ,   S   ,   R   ,   G   ,   M   |
+
+Chitta Swaram 2
+
+D   ,   N   D   D   M   G   M       D   ,   M   G   ,   R   S   Ṇ   |
+S   ,   R   G   ,   M   D   N   |   Ṡ   N   ,   D   ,   M   G   M   |
+
+Chitta Swaram 3
+
+M   D   N   Ṡ   ,   N   D   N       Ṡ   N   ,   D   Ṙ   Ṡ   N   D   |
+D   ,   M   G   ,   M   N   D   |   M   D   N   Ṡ   D   ,   ,   N   |
+D   M   G   R   S   D   M   G       R   S   R   G   M   D   N   Ṡ   |
+Ṙ   Ġ   Ṙ   ,   N   D   N   D   |   M   G   R   Ṇ   S   R   G   M   |
+
+Chitta Swaram 4
+
+D   N   D   M   G   M   N   D       M   G   R   S   D   M   G   R   |
+S   G   R   Ṇ   Ḍ   Ṇ   R   Ṇ   |   Ḍ   Ṇ   S   R   G   M   D   M   |
+D   N   Ṡ   Ṙ   N   D   N   Ṡ       Ṙ   Ġ   Ṙ   N   D   N   D   M   |
+G   R   S   Ġ   Ṙ   N   D   M   |   G   R   S   Ṇ   S   R   G   M   |
+
+Chitta Swaram 5
+
+Ṡ   ,   ,   N   D   N   Ṡ   ,       ,   N   D   N   N   ,   ,   D   |
+M   D   N   D   ,   Ṙ   Ṡ   N   |   D   ,   M   G   ,   M   D   N   |
+Ṙ   N   D   M   G   R   N   D       M   G   R   D   M   G   R   S   |
+Ṇ   S   R   G   M   D   S   R   |   G   M   D   M   D   N   Ṡ   Ṙ   |
+Ṡ   Ṙ   Ġ   Ṙ   ,   N   D   N       Ġ   Ṙ   ,   N   D   N   Ṙ   N   |
+,   D   M   D   N   Ṡ   ,   N   |   D   M   ,   G   M   D   D   N   |
+Ṡ   Ṙ   Ġ   N   Ṡ   Ṙ   D   N       Ṡ   M   D   N   G   M   D   N   |
+Ṡ   Ṙ   Ġ   Ṁ   Ġ   Ṙ   N   D   |   M   G   R   Ṇ   S   R   G   M   |
