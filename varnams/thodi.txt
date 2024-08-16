@@ -2,6 +2,13 @@ Pallavi
 
 Ṡ   ,   ,   Ṡ   N   D   P   D       N   N   D   P   M   G   M   N   |
 N   D   P   M   G   R   S   R   |   G   M   P   G   M   P   D   N   |
+
+Ṡ   ,   ,   Ṡ   N   D   P   D       N   N   D   P   M   G   M   N   |
+N   D   P   M   G   R   S   R   |   G   M   P   G   M   P   D   N   |
+
+Ṡ   Ṙ   Ġ   N   Ṡ   Ṙ   D   N       D   Ġ   Ṙ   Ṡ   N   D   P   M   |
+D   ,   ,   ,   ,   ,   Ṡ   N   |   D   P   M   G   M   P   D   N   |
+
 Ṡ   Ṙ   Ġ   N   Ṡ   Ṙ   D   N       D   Ġ   Ṙ   Ṡ   N   D   P   M   |
 D   ,   ,   ,   ,   ,   Ṡ   N   |   D   P   M   G   M   P   D   N   |
 
@@ -12,27 +19,191 @@ M   G   M   P   D   N   Ṡ   N   |   D   P   D   N   Ṡ   ,   D   P   |
 D   N   Ṡ   Ṙ   Ġ   Ṙ   Ġ   Ṁ       Ġ   Ṙ   N   Ġ   Ṙ   Ṡ   N   D   |
 N   Ṡ   Ṙ   D   N   D   Ġ   Ṙ   |   Ṡ   N   D   P   M   P   D   N   |
 
+N   D   D   N   D   D   N   G       M   N   D   P   M   G   R   S   |
+M   G   M   P   D   N   Ṡ   N   |   D   P   D   N   Ṡ   ,   D   P   |
+D   N   Ṡ   Ṙ   Ġ   Ṙ   Ġ   Ṁ       Ġ   Ṙ   N   Ġ   Ṙ   Ṡ   N   D   |
+N   Ṡ   Ṙ   D   N   D   Ġ   Ṙ   |   Ṡ   N   D   P   M   P   D   N   |
+
 Muktayi Swaram
 
-Ṡ   Ṙ   Ṡ   N   D   N   Ṡ   ,       N   Ṙ   N   D   P   M   R   M   |
+Ṡ   Ṙ   Ṡ   N   D   N   Ṡ   ,       N   Ṙ   N   D   D   M   G   M   |
 P   D   N   D   N   Ṡ   N   D   |   N   Ṡ   N   Ṙ   Ṡ   ,   ,   ,   |
+
+Ṡ   Ṙ   Ṡ   N   D   N   Ṡ   ,       N   Ṙ   N   D   D   M   G   M   |
+P   D   N   D   N   Ṡ   N   D   |   N   Ṡ   N   Ṙ   Ṡ   ,   ,   ,   |
+
 D   N   D   Ġ   Ṙ   Ṙ   Ṁ   Ġ       Ṙ   Ṡ   N   Ġ   Ṙ   Ṡ   N   D   |
 N   Ġ   Ṙ   N   Ṙ   N   D   N   |   D   Ġ   Ṙ   N   D   M   D   N   |
+
+D   N   D   Ġ   Ṙ   Ṙ   Ṁ   Ġ       Ṙ   Ṡ   N   Ġ   Ṙ   Ṡ   N   D   |
+N   Ġ   Ṙ   N   Ṙ   N   D   N   |   D   Ġ   Ṙ   N   D   M   D   N   |
+
+Pallavi - 2nd Speed
+
+Ṡ , , Ṡ N D P D N N D P M G M N   N D P M G R S R G M P G M P D N |
+Ṡ , , Ṡ N D P D N N D P M G M N | N D P M G R S R G M P G M P D N |
+
+Ṡ Ṙ Ġ N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M   D , , , , , Ṡ N D P M G M P D N |
+Ṡ Ṙ Ġ N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M | D , , , , , Ṡ N D P M G M P D N |
+
+Anupallavi - 2nd Speed
+
+N D D N D D N G M N D P M G R S   M G M P D N Ṡ N D P D N Ṡ , D P |
+D N Ṡ Ṙ Ġ Ṙ Ġ Ṁ Ġ Ṙ N Ġ Ṙ Ṡ N D | N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M P D N |
+
+N D D N D D N G M N D P M G R S   M G M P D N Ṡ N D P D N Ṡ , D P |
+D N Ṡ Ṙ Ġ Ṙ Ġ Ṁ Ġ Ṙ N Ġ Ṙ Ṡ N D | N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M P D N |
+
+Muktayi Swaram - 2nd Speed
+
+Ṡ Ṙ Ṡ N D N Ṡ , N Ṙ N D D M G M   P D N D N Ṡ N D N Ṡ N Ṙ Ṡ , , , |
+Ṡ Ṙ Ṡ N D N Ṡ , N Ṙ N D D M G M | P D N D N Ṡ N D N Ṡ N Ṙ Ṡ , , , |
+
+D N D Ġ Ṙ Ṙ Ṁ Ġ Ṙ Ṡ N Ġ Ṙ Ṡ N D   N Ġ Ṙ N Ṙ N D N D Ġ Ṙ N D M D N |
+D N D Ġ Ṙ Ṙ Ṁ Ġ Ṙ Ṡ N Ġ Ṙ Ṡ N D | N Ġ Ṙ N Ṙ N D N D Ġ Ṙ N D M D N |
+
+Pallavi - Sahityam
+
+Ṡ   ,   ,   Ṡ   N   D   P   D       N   N   D   P   M   G   M   N   |
+E   .   .   ra  .   .   na  .       .   pai .   .   .   .   in  ta  |
+N   D   P   M   G   R   S   R   |   G   M   P   G   M   P   D   N   |
+chou.   .   ka  .   .   se  .   |   .   .   .   ya  .   .   .   .   |
+
+Ṡ   ,   ,   Ṡ   N   D   P   D       N   N   D   P   M   G   M   N   |
+E   .   .   ra  .   .   na  .       .   pai .   .   .   .   in  ta  |
+N   D   P   M   G   R   S   R   |   G   M   P   G   M   P   D   N   |
+chou.   .   ka  .   .   se  .   |   .   .   .   ya  .   .   .   .   |
+
+Ṡ   Ṙ   Ġ   N   Ṡ   Ṙ   D   N       D   Ġ   Ṙ   Ṡ   N   D   P   M   |
+me  .   .   ra  .   .   ga  .       .   du  .   .   ra  .   .   .   |
+D   ,   ,   ,   ,   ,   Ṡ   N   |   D   P   M   G   M   P   D   N   |
+na  .   .   .   .   .   sa  .   |   .   .   .   mi  .   .   .   .   |
+
+Ṡ   Ṙ   Ġ   N   Ṡ   Ṙ   D   N       D   Ġ   Ṙ   Ṡ   N   D   P   M   |
+me  .   .   ra  .   .   ga  .       .   du  .   .   ra  .   .   .   |
+D   ,   ,   ,   ,   ,   Ṡ   N   |   D   P   M   G   M   P   D   N   |
+na  .   .   .   .   .   sa  .   |   .   .   .   mi  .   .   .   .   |
+
+Anupallavi
+
+N   D   D   N   D   D   N   G       M   N   D   P   M   G   R   S   |
+Ma  .   .   .   ru  .   .   ni      .   kan .   .   na  .   .   .   |
+M   G   M   P   D   N   Ṡ   N   |   D   P   D   N   Ṡ   ,   ,   ,   |
+Shri.   .   Ven .   .   ka  .   |   te  .   .   .   sha .   su  ku  |
+
+D   N   Ṡ   Ṙ   Ġ   Ṙ   Ġ   Ṁ       Ġ   Ṙ   N   Ġ   Ṙ   Ṡ   N   D   |
+ma  .   .   .   ra  .   nan .       .   .   ne  .   .   .   lu  .   |
+N   Ṡ   Ṙ   D   N   D   Ġ   Ṙ   |   Ṡ   N   D   P   M   P   D   N   |
+ko  .   .   ra  .   .   sa  .   |   ra  .   su  .   .   da  .   .   |
+
+N   D   D   N   D   D   N   G       M   N   D   P   M   G   R   S   |
+Ma  .   .   .   ru  .   .   ni      .   kan .   .   na  .   .   .   |
+M   G   M   P   D   N   Ṡ   N   |   D   P   D   N   Ṡ   ,   ,   ,   |
+Shri.   .   Ven .   .   ka  .   |   te  .   .   .   sha .   su  ku  |
+
+D   N   Ṡ   Ṙ   Ġ   Ṙ   Ġ   Ṁ       Ġ   Ṙ   N   Ġ   Ṙ   Ṡ   N   D   |
+ma  .   .   .   ra  .   nan .       .   .   ne  .   .   .   lu  .   |
+N   Ṡ   Ṙ   D   N   D   Ġ   Ṙ   |   Ṡ   N   D   P   M   P   D   N   |
+ko  .   .   ra  .   .   sa  .   |   ra  .   su  .   .   da  .   .   |
+
+Muktayi Swaram
+
+Ṡ   Ṙ   Ṡ   N   D   N   Ṡ   ,       N   Ṙ   N   D   D   M   G   M   |
+P   D   N   D   N   Ṡ   N   D   |   N   Ṡ   N   Ṙ   Ṡ   ,   ,   ,   |
+
+Ṡ   Ṙ   Ṡ   N   D   N   Ṡ   ,       N   Ṙ   N   D   D   M   G   M   |
+P   D   N   D   N   Ṡ   N   D   |   N   Ṡ   N   Ṙ   Ṡ   ,   ,   ,   |
+
+D   N   D   Ġ   Ṙ   Ṙ   Ṁ   Ġ       Ṙ   Ṡ   N   Ġ   Ṙ   Ṡ   N   D   |
+N   Ġ   Ṙ   N   Ṙ   N   D   N   |   D   Ġ   Ṙ   N   D   M   D   N   |
+
+D   N   D   Ġ   Ṙ   Ṙ   Ṁ   Ġ       Ṙ   Ṡ   N   Ġ   Ṙ   Ṡ   N   D   |
+N   Ġ   Ṙ   N   Ṙ   N   D   N   |   D   Ġ   Ṙ   N   D   M   D   N   |
+
+Pallavi - Sahityam - 2nd Speed
+
+Ṡ , , Ṡ N D P D N N D P M G M N   N D P M G R S R G M P G M P D N |
+E . . ra. . na. . pai . . . inta  chou. ka. . se. . . . ya. . . . |
+Ṡ , , Ṡ N D P D N N D P M G M N | N D P M G R S R G M P G M P D N |
+E . . ra. . na. . pai . . . inta| chou. ka. . se. . . . ya. . . . |
+
+Ṡ Ṙ Ġ N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M   D , , , , , Ṡ N D P M G M P D N |
+me. . ra. . ga. . du. . ra. . .   na. . . . . sa. . . . mi. . . . |
+Ṡ Ṙ Ġ N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M | D , , , , , Ṡ N D P M G M P D N |
+me. . ra. . ga. . du. . ra. . . | na. . . . . sa. . . . mi. . . . |
+
+Anupallavi - Sahityam - 2nd Speed
+
+N D D N D D N G M N D P M G R S   M G M P D N Ṡ N D P D N Ṡ , , , |
+Ma. . . ru. . ni. kan . na. . .   Shri. Ven . ka. te. . . sha . . |
+D N Ṡ Ṙ Ġ Ṙ Ġ Ṁ Ġ Ṙ N Ġ Ṙ Ṡ N D | N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M P D N |
+ma. . . ra. nan . . ne. . . lu. | ko. . ra. . sa. ra. su. . da. . |
+
+N D D N D D N G M N D P M G R S   M G M P D N Ṡ N D P D N Ṡ , , , |
+Ma. . . ru. . ni. kan . na. . .   Shri. Ven . ka. te. . . sha . . |
+D N Ṡ Ṙ Ġ Ṙ Ġ Ṁ Ġ Ṙ N Ġ Ṙ Ṡ N D | N Ṡ Ṙ D N D Ġ Ṙ Ṡ N D P M P D N |
+ma. . . ra. nan . . ne. . . lu. | ko. . ra. . sa. ra. su. . da. . |
+
+Muktayi Swaram - 2nd Speed
+
+Ṡ Ṙ Ṡ N D N Ṡ , N Ṙ N D D M G M   P D N D N Ṡ N D N Ṡ N Ṙ Ṡ , , , |
+Ṡ Ṙ Ṡ N D N Ṡ , N Ṙ N D D M G M | P D N D N Ṡ N D N Ṡ N Ṙ Ṡ , , , |
+
+D N D Ġ Ṙ Ṙ Ṁ Ġ Ṙ Ṡ N Ġ Ṙ Ṡ N D   N Ġ Ṙ N Ṙ N D N D Ġ Ṙ N D M D N |
+D N D Ġ Ṙ Ṙ Ṁ Ġ Ṙ Ṡ N Ġ Ṙ Ṡ N D | N Ġ Ṙ N Ṙ N D N D Ġ Ṙ N D M D N |
+
+Pallavi - Conclusion
+
+E   .   .   ra  .   .   na  .       .   pai .   .   .   .   .   .   |
+.   .   .   .   .   .   .   .   |   .   .   .   .   .   .   .   .   |
 
 Charanam
 
 D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
 G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
 
+Charanam - Sahityam
+
+D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
+Da  .   .   ni  ma  .   .   .       ta  .   .   lu  .   vi  ni  .   |
+G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
+in  .   .   ta  .   .   sa  .   |   ha  sa  .   me  .   la  .   ra  |
+
 Chitta Swaram 1
 
 G   ,   ,   M   ,   ,   G   ,       ,   ,   R   ,   Ṇ   ,   R   ,   |
 S   ,   ,   Ḍ   ,   ,   Ṇ   ,   |   ,   S   ,   R   ,   G   ,   M   |
 
+Chitta Swaram 1 - 2nd Speed
+
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R   G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini.   in. . ta. . sa. hasa. me. la. ra|
+G , , M , , G , , , R , Ṇ , R , | S , , Ḍ , , Ṇ , , S , R , G , M |
+
+Charanam - Sahityam
+
+D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
+Da  .   .   ni  ma  .   .   .       ta  .   .   lu  .   vi  ni  .   |
+G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
+in  .   .   ta  .   .   sa  .   |   ha  sa  .   me  .   la  .   ra  |
+
 Chitta Swaram 2
 
 D   ,   N   D   D   M   G   M       D   ,   M   G   ,   R   S   Ṇ   |
 S   ,   R   G   ,   M   D   N   |   Ṡ   N   ,   D   ,   M   G   M   |
+
+Chitta Swaram 2 - 2nd Speed
+
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R   G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini.   in. . ta. . sa. hasa. me. la. ra|
+D , N D D M G M D , M G , R S Ṇ | S , R G , M D N Ṡ N , D , M G M |
+
+Charanam - Sahityam
+
+D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
+Da  .   .   ni  ma  .   .   .       ta  .   .   lu  .   vi  ni  .   |
+G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
+in  .   .   ta  .   .   sa  .   |   ha  sa  .   me  .   la  .   ra  |
 
 Chitta Swaram 3
 
@@ -41,12 +212,46 @@ D   ,   M   G   ,   M   N   D   |   M   D   N   Ṡ   D   ,   ,   N   |
 D   M   G   R   S   D   M   G       R   S   R   G   M   D   N   Ṡ   |
 Ṙ   Ġ   Ṙ   ,   N   D   N   D   |   M   G   R   Ṇ   S   R   G   M   |
 
+Chitta Swaram 3 - 2nd Speed
+
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R   G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini.   in. . ta. . sa. hasa. me. la. ra|
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R | G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini. | in. . ta. . sa. hasa. me. la. ra|
+
+M D N Ṡ , N D N Ṡ N , D Ṙ Ṡ N D   D , M G , M N D M D N Ṡ D , , N |
+D M G R S D M G R S R G M D N Ṡ | Ṙ Ġ Ṙ , N D N D M G R Ṇ S R G M |
+
+Charanam - Sahityam
+
+D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
+Da  .   .   ni  ma  .   .   .       ta  .   .   lu  .   vi  ni  .   |
+G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
+in  .   .   ta  .   .   sa  .   |   ha  sa  .   me  .   la  .   ra  |
+
 Chitta Swaram 4
 
 D   N   D   M   G   M   N   D       M   G   R   S   D   M   G   R   |
 S   G   R   Ṇ   Ḍ   Ṇ   R   Ṇ   |   Ḍ   Ṇ   S   R   G   M   D   M   |
 D   N   Ṡ   Ṙ   N   D   N   Ṡ       Ṙ   Ġ   Ṙ   N   D   N   D   M   |
 G   R   S   Ġ   Ṙ   N   D   M   |   G   R   S   Ṇ   S   R   G   M   |
+
+Chitta Swaram 4 - 2nd Speed
+
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R   G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini.   in. . ta. . sa. hasa. me. la. ra|
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R | G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini. | in. . ta. . sa. hasa. me. la. ra|
+
+D N D M G M N D M G R S D M G R   S G R Ṇ Ḍ Ṇ R Ṇ Ḍ Ṇ S R G M D M |
+D N Ṡ Ṙ N D N Ṡ Ṙ Ġ Ṙ N D N D M | G R S Ġ Ṙ N D M G R S Ṇ S R G M |
+
+Charanam - Sahityam
+
+D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
+Da  .   .   ni  ma  .   .   .       ta  .   .   lu  .   vi  ni  .   |
+G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
+in  .   .   ta  .   .   sa  .   |   ha  sa  .   me  .   la  .   ra  |
 
 Chitta Swaram 5
 
@@ -58,3 +263,27 @@ M   D   N   D   ,   Ṙ   Ṡ   N   |   D   ,   M   G   ,   M   D   N   |
 ,   D   M   D   N   Ṡ   ,   N   |   D   M   ,   G   M   D   D   N   |
 Ṡ   Ṙ   Ġ   N   Ṡ   Ṙ   D   N       Ṡ   M   D   N   G   M   D   N   |
 Ṡ   Ṙ   Ġ   Ṁ   Ġ   Ṙ   N   D   |   M   G   R   Ṇ   S   R   G   M   |
+
+Chitta Swaram 5 - 2nd Speed
+
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R   G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini.   in. . ta. . sa. hasa. me. la. ra|
+D , , N Ṙ Ṡ Ṡ N N D P M G R S R | G , , M , , P D N Ṡ , Ṡ N D P M |
+Da. . nima. . . ta. . lu. vini. | in. . ta. . sa. hasa. me. la. ra|
+
+Ṡ , , N D N Ṡ , , N D N N , , D   M D N D , Ṙ Ṡ N D , M G , M D N |
+Ṙ N D M G R N D M G R D M G R S | Ṇ S R G M D S R G M D M D N Ṡ Ṙ |
+Ṡ Ṙ Ġ Ṙ , N D N Ġ Ṙ , N D N Ṙ N   , D M D N Ṡ , N D M , G M D D N |
+Ṡ Ṙ Ġ N Ṡ Ṙ D N Ṡ M D N G M D N | Ṡ Ṙ Ġ Ṁ Ġ Ṙ N D M G R Ṇ S R G M |
+
+Charanam - Sahityam
+
+D   ,   ,   N   Ṙ   Ṡ   Ṡ   N       N   D   P   M   G   R   S   R   |
+Da  .   .   ni  ma  .   .   .       ta  .   .   lu  .   vi  ni  .   |
+G   ,   ,   M   ,   ,   P   D   |   N   Ṡ   ,   Ṡ   N   D   P   M   |
+in  .   .   ta  .   .   sa  .   |   ha  sa  .   me  .   la  .   ra  |
+
+Conclusion
+
+Da  .   .   ni  ma  .   .   .       ta  .   .   .   .   .   .   .   |
+.   .   .   .   .   .   .   .   |   .   .   .   .   .   .   .   .   |
