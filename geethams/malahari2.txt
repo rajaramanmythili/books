@@ -1,0 +1,42 @@
+Swaram
+
+D   P   │   M   G   R   S   ║   R   M   │   P   D   M   P   ║
+D   Ṙ   │   Ṙ   Ṡ   D   P   ║   D   P   │   M   G   R   S   ║
+S   ,   │   R   ,   R   ,   ║   D   P   │   M   G   R   S   ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+
+Sahityam 1
+
+D   P   │   M   G   R   S   ║   R   M   │   P   D   M   P   ║
+Kun da  │   Gou u   u   ra  ║   Gou u   │   ri  i   va  ra  ║
+D   Ṙ   │   Ṙ   Ṡ   D   P   ║   D   P   │   M   G   R   S   ║
+Man di  │   ra  a   a   ya  ║   ma  a   │   na  ma  ku  ta  ║
+
+S   ,   │   R   ,   R   ,   ║   D   P   │   M   G   R   S   ║
+Man .   │   da  .   ra  .   ║   Ku  su  │   ma  a   ka  ra  ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Ma  ka  │   ra  .   dam m   ║   Va  a   │   si  tu  va  .   ║
+
+Sahityam 2
+
+D   P   │   M   G   R   S   ║   R   M   │   P   D   M   P   ║
+He  ma  │   ku  u   u   ta  ║   Sim m   │   ha  a   sa  na  ║
+D   Ṙ   │   Ṙ   Ṡ   D   P   ║   D   P   │   M   G   R   S   ║
+Vi  ru  │   pa  a   a   ksha║   ka  ru  │   na  a   ka  ra  ║
+
+S   ,   │   R   ,   R   ,   ║   D   P   │   M   G   R   S   ║
+Man .   │   da  .   ra  .   ║   Ku  su  │   ma  a   ka  ra  ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Ma  ka  │   ra  .   dam m   ║   Va  a   │   si  tu  va  .   ║
+
+Sahityam 3
+
+D   P   │   M   G   R   S   ║   R   M   │   P   D   M   P   ║
+Chanda  │   ma  a   a   ma  ║   man n   │   da  a   gi  ni  ║
+D   Ṙ   │   Ṙ   Ṡ   D   P   ║   D   P   │   M   G   R   S   ║
+Man di  │   ra  a   a   ya  ║   ma  a   │   na  ma  ku  ta  ║
+
+S   ,   │   R   ,   R   ,   ║   D   P   │   M   G   R   S   ║
+Man .   │   da  .   ra  .   ║   Ku  su  │   ma  a   ka  ra  ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Ma  ka  │   ra  .   dam m   ║   Va  a   │   si  tu  va  .   ║

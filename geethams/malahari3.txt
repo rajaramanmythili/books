@@ -1,0 +1,33 @@
+Swaram
+
+D   Ṡ   Ṡ   │   D   P   │   M   P   ║   D   D   P   │   M   M   │   P   ,   ║
+D   D   Ṡ   │   D   P   │   M   P   ║   D   D   P   │   M   G   │   R   S   ║
+S   R   R   │   S   R   │   S   R   ║   D   D   P   │   M   G   │   R   S   ║
+D   P   D   │   Ṡ   ,   │   D   P   ║   D   D   P   │   M   G   │   R   S   ║
+S   R   R   │   S   R   │   S   R   ║   D   D   P   │   M   G   │   R   S   ║
+
+Sahityam 1
+
+D   Ṡ   Ṡ   │   D   P   │   M   P   ║   D   D   P   │   M   M   │   P   ,   ║
+Ke  re  ya  │   Nee e   │   ra  nu  ║   Ke  re  ge  │   chal.   │   li  .   ║
+D   D   Ṡ   │   D   P   │   M   P   ║   D   D   P   │   M   G   │   R   S   ║
+Va  ra  va  │   pa  de  │   da  va  ║   ran n   te  │   ka  a   │   ni  ro  ║
+S   R   R   │   S   R   │   S   R   ║   D   D   P   │   M   G   │   R   S   ║
+Ha  ri  ya  │   ka  ru  │   na  do  ║   la  a   da  │   bha a   │   gya va  ║
+D   P   D   │   Ṡ   ,   │   D   P   ║   D   D   P   │   M   G   │   R   S   ║
+Ha  ri  sa  │   maa r   │   pa  ne  ║   ma  a   di  │   ba  du  │   ki  ro  ║
+S   R   R   │   S   R   │   S   R   ║   D   D   P   │   M   G   │   R   S   ║
+Ha  ri  ya  │   ka  ru  │   na  do  ║   la  a   da  │   bha a   │   gya va  ║
+
+Sahityam 1
+
+D   Ṡ   Ṡ   │   D   P   │   M   P   ║   D   D   P   │   M   M   │   P   ,   ║
+Sre e   pu  │   ran n   │   da  ra  ║   Vi  ta  la  │   ra  .   │   ya  .   ║
+D   D   Ṡ   │   D   P   │   M   P   ║   D   D   P   │   M   G   │   R   S   ║
+Cha ra  vn  │   ka  ma  │   la  va  ║   no  o   di  │   ba  du  │   ki  ro  ║
+S   R   R   │   S   R   │   S   R   ║   D   D   P   │   M   G   │   R   S   ║
+Ha  ri  ya  │   ka  ru  │   na  do  ║   la  a   da  │   bha a   │   gya va  ║
+D   P   D   │   Ṡ   ,   │   D   P   ║   D   D   P   │   M   G   │   R   S   ║
+Ha  ri  sa  │   maa r   │   pa  ne  ║   ma  a   di  │   ba  du  │   ki  ro  ║
+S   R   R   │   S   R   │   S   R   ║   D   D   P   │   M   G   │   R   S   ║
+Ha  ri  ya  │   ka  ru  │   na  do  ║   la  a   da  │   bha a   │   gya va  ║

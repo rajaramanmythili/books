@@ -1,0 +1,38 @@
+Swaram
+
+Ṙ   Ṁ   Ṙ   │   Ṙ   Ṡ   │   D   Ṡ   ║   Ṡ   ,   Ṡ   │   D   P   │   M   P   ║
+D   D   Ṡ   │   D   ,   │   D   P   ║   P   M   R   │   D   D   │   D   P   ║
+P   ,   P   │   D   D   │   D   P   ║   P   ,   P   │   M   P   │   D   P   ║
+P   M   R   │   S   R   │   S   R   ║   P   M   P   │   S   R   │   S   R   ║
+P   P   D   │   P   P   │   M   R   ║   R   S   R   │   M   ,   │   M   ,   ║
+D   P   D   │   Ṡ   ,   │   Ṡ   ,   ║   Ṙ   Ṙ   Ṡ   │   D   P   │   M   P   ║
+D   D   Ṡ   │   D   ,   │   D   P   ║   P   M   R   │   D   D   │   D   P   ║
+P   ,   P   │   D   D   │   D   P   ║   P   ,   P   │   M   P   │   D   P   ║
+P   M   R   │   S   R   │   S   R   ║   P   M   P   │   S   R   │   S   R   ║
+P   P   D   │   P   P   │   M   R   ║   R   S   R   │   M   ,   │   M   ,   ║
+D   P   D   │   Ṡ   ,   │   Ṡ   ,   ║               │           │           ║
+
+Sahityam
+
+Ṙ   Ṁ   Ṙ   │   Ṙ   Ṡ   │   D   Ṡ   ║   Ṡ   ,   Ṡ   │   D   P   │   M   P   ║
+A   a   na  │   le  e   │   ka  ra  ║   un  .   ni  │   po  o   │   la  di  ║
+D   D   Ṡ   │   D   ,   │   D   P   ║   P   M   R   │   D   D   │   D   P   ║
+sa  ka  la  │   sha .   │   strapu  ║   ra  a   na  │   di  i   │   nam m   ║
+P   ,   P   │   D   D   │   D   P   ║   P   ,   P   │   M   P   │   D   P   ║
+tha .   la  │   di  i   │   nam m   ║   tha .   la  │   pa  ri  │   ga  thu ║
+P   M   R   │   S   R   │   S   R   ║   P   M   P   │   S   R   │   S   R   ║
+re  .   re  │   a   .   │   .   .   ║   a   .   .   │   a   .   │   .   .   ║
+P   P   D   │   P   P   │   M   R   ║   R   S   R   │   M   ,   │   M   ,   ║
+a   .   .   │   a   .   │   .   .   ║   se  e   thu │   va  .   │   ha  .   ║
+D   P   D   │   Ṡ   ,   │   Ṡ   ,   ║   Ṙ   Ṙ   Ṡ   │   D   P   │   M   P   ║
+pa  ri  ga  │   tham.   │   nam .   ║   ja  ta  a   │   ju  u   │   u   ta  ║
+D   D   Ṡ   │   D   ,   │   D   P   ║   P   M   R   │   D   D   │   D   P   ║
+sa  ka  la  │   sha .   │   strapu  ║   ra  a   na  │   di  i   │   nam m   ║
+P   ,   P   │   D   D   │   D   P   ║   P   ,   P   │   M   P   │   D   P   ║
+tha .   la  │   di  i   │   nam m   ║   tha .   la  │   pa  ri  │   ga  thu ║
+P   M   R   │   S   R   │   S   R   ║   P   M   P   │   S   R   │   S   R   ║
+re  .   re  │   a   .   │   .   .   ║   a   .   .   │   a   .   │   .   .   ║
+P   P   D   │   P   P   │   M   R   ║   R   S   R   │   M   ,   │   M   ,   ║
+a   .   .   │   a   .   │   .   .   ║   se  e   thu │   va  .   │   ha  .   ║
+D   P   D   │   Ṡ   ,   │   Ṡ   ,   ║
+pa  ri  ga  │   tham.   │   nam .   ║

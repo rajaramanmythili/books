@@ -1,0 +1,49 @@
+Swaram
+
+M   P   │   D   Ṡ   Ṡ   Ṙ   ║   Ṙ   Ṡ   │   D   P   M   P   ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+
+Sahityam 1
+
+M   P   │   D   Ṡ   Ṡ   Ṙ   ║   Ṙ   Ṡ   │   D   P   M   P   ║
+Sre e   │   Ga  na  Naa tha ║   Sin dhu │   u   ra  var na  ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+Ka  ru  │   na  Sa  ga  ra  ║   Ka  ri  │   Va  da  a   na  ║
+
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Lam m   │   bo  .   da  ra  ║   la  ku  │   mi  ka  ra  .   ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+Am  m   │   ba  a   su  tha ║   A   ma  │   ra  vi  nu  ta  ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Lam m   │   bo  .   dha ra  ║   la  ku  │   mi  ka  ra  .   ║
+
+Sahityam 2
+
+M   P   │   D   Ṡ   Ṡ   Ṙ   ║   Ṙ   Ṡ   │   D   P   M   P   ║
+Sid dha │   cha a   ra  na  ║   Ga  na  │   Se  e   vi  ta  ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+Sid dhi │   Vi  na  ya  ka  ║   the e   │   na  mo  na  mo  ║
+
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Lam m   │   bo  .   da  ra  ║   la  ku  │   mi  ka  ra  .   ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+Am  m   │   ba  a   su  tha ║   A   ma  │   ra  vi  nu  ta  ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Lam m   │   bo  .   dha ra  ║   la  ku  │   mi  ka  ra  .   ║
+
+Sahityam 3
+
+M   P   │   D   Ṡ   Ṡ   Ṙ   ║   Ṙ   Ṡ   │   D   P   M   P   ║
+Sa  ka  │   la  Vi  dhyaa   ║   A   di  │   Pu  u   ji  ta  ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+Sa  ar  │   vo  o   tta ma  ║   the e   │   na  mo  na  mo  ║
+
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Lam m   │   bo  .   da  ra  ║   la  ku  │   mi  ka  ra  .   ║
+R   M   │   P   D   M   P   ║   D   P   │   M   G   R   S   ║
+Am  m   │   ba  a   su  tha ║   A   ma  │   ra  vi  nu  ta  ║
+S   R   │   M   ,   G   R   ║   S   R   │   G   R   S   ,   ║
+Lam m   │   bo  .   dha ra  ║   la  ku  │   mi  ka  ra  .   ║
