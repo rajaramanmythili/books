@@ -8,12 +8,12 @@ ne  .   .   .   .   .   ko  .   |   .   .   .   .   .   .   ri  .   |
 Ṡ   ,   Ṡ   D   P   M   P   ,       P   M   G   R   S   R   G   S   |
 cha .   la  .   .   .   ma  .       ru  .   .   .   lu  .   .   ko  |
 Ṇ   P̣   Ḍ   Ṇ   S   ,   P   M   |   G   R   G   M   P   ,   D   N   |
-.   .   .   .   .   .  nna  .   |   .   .   di  .   ra  .   .   .   |
+.   .   .   .   .   .  nna  .   |   .   .   di  .   .   .   ra  .   |
 
 Anupallavi
 
 S   ,   D   D   P   M   D   P       ,   M   G   M   P   G   M   R   |
-Ta  .   .   .   .   .   .   ma      .   .   sa  .   .   .   .   .   |
+Ta  .   .   .   .   .   a   ma      .   .   sa  .   .   .   .   .   |
 G   M   P   D   D   P   M   P   |   D   N   Ṡ   N   Ṡ   ,   Ṙ   Ġ   |
 mu  .   .   se  .   .   ya  .   |   .   .   .   .   ka  .   a   .   |
 
@@ -48,6 +48,7 @@ P   D   ,   P   M   G   M   P       ,   M   G   M   R   G   ,   R   |
 S   Ṇ   Ḍ   Ṇ   ,   P̣   Ḍ   Ṇ   |   S   R   ,   Ṇ   S   R   G   M   |
 
 Chitta Swaram 3
+
 M   ,   D   P   M   G   M   ,       P   G   M   R   G   S   ,   Ṇ   |
 S   M   G   R   S   Ṇ   Ḍ   Ṇ   |   S   R   G   M   P   ,   G   M   |
 P   D   N   P   D   N   Ṡ   Ṙ       Ṡ   Ġ   Ṙ   ,   Ṡ   N   D   N   |
