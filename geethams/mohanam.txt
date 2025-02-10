@@ -1,0 +1,35 @@
+Swaram
+
+G   G   |   P   ,   P   ,   ║   D   P   |   Ṡ   ,   Ṡ   ,   ║
+Ṙ   Ṡ   |   D   D   P   ,   ║   D   P   |   G   G   R   ,   ║
+G   P   |   D   Ṡ   D   ,   ║   D   P   |   G   G   R   ,   ║
+G   G   |   D   P   G   ,   ║   P   G   |   G   R   S   ,   ║
+G   G   |   G   G   R   G   ║   P   G   |   P   ,   P   ,   ║
+G   G   |   D   P   D   ,   ║   D   P   |   Ṡ   ,   Ṡ   ,   ║
+D   Ġ   |   Ṙ   Ṙ   Ṡ   Ṡ   ║   D   Ṡ   |   D   D   D   P   ║
+G   P   |   D   Ṡ   D   P   ║   D   P   |   G   G   R   S   ║
+S   R   |   G   ,   G   ,   ║   G   R   |   P   G   R   ,   ║
+S   R   |   S   G   R   S   ║   R   S   |   D   ,   S   ,   ║
+
+Sahityam
+
+G   G   |   P   ,   P   ,   ║   D   P   |   Ṡ   ,   Ṡ   ,   ║
+Va  ra  |   vee .   na  .   ║   mru du  |   pa  .   ni  .   ║
+Ṙ   Ṡ   |   D   D   P   ,   ║   D   P   |   G   G   R   ,   ║
+va  na  |   ru  ha  lo  .   ║   cha na  |   ra  .   ni  .   ║
+G   P   |   D   Ṡ   D   ,   ║   D   P   |   G   G   R   ,   ║
+su  ru  |   chi ra  bam .   ║   ba  ra  |   ve  .   ni  .   ║
+G   G   |   D   P   G   ,   ║   P   G   |   G   R   S   ,   ║
+su  ra  |   nu  tha kal .   ║   ya  .   |   .   .   ni  .   ║
+G   G   |   G   G   R   G   ║   P   G   |   P   ,   P   ,   ║
+ni  ru  |   pa  ma  shu bha ║   gu  na  |   lo  .   la  .   ║
+G   G   |   D   P   D   ,   ║   D   P   |   Ṡ   ,   Ṡ   ,   ║
+ni  ra  |   tha ja  ya  .   ║   pra da  |   shee.   la  .   ║
+D   Ġ   |   Ṙ   Ṙ   Ṡ   Ṡ   ║   D   Ṡ   |   D   D   D   P   ║
+va  ra  |   dha .   pri ya  ║   ran ga  |   na  .   ya  ki  ║
+G   P   |   D   Ṡ   D   P   ║   D   P   |   G   G   R   S   ║
+va  an  |   chi tha pha la  ║   da  .   |   .   .   ya  ki  ║
+S   R   |   G   ,   G   ,   ║   G   R   |   P   G   R   ,   ║
+sa  ra  |   si  .   ja  .   ║   sa  na  |   ja  na  ni  .   ║
+S   R   |   S   G   R   S   ║   R   S   |   D   ,   S   ,   ║
+ja  ya  |   ja  ya  ja  ya  ║   ja  ya  |   ja  .   ya  .   ║
