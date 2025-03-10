@@ -1,0 +1,45 @@
+Swaram
+
+Ṡ   ,   N   P   ║   D   D   |   Ṡ   ,   ║
+D   Ṡ   Ṙ   Ġ   ║   Ṁ   Ġ   |   Ġ   Ṙ   ║
+Ṡ   Ṙ   Ṡ   Ṡ   ║   N   N   |   D   P   ║
+D   D   P   M   ║   G   M   |   P   ,   ║
+G   P   D   Ṡ   ║   N   N   |   D   P   ║
+D   D   P   P   ║   M   G   |   R   S   ║
+G   P   P   D   ║   D   Ṡ   |   Ṡ   Ṙ   ║
+Ṙ   Ṗ   Ṁ   Ġ   ║   Ṙ   Ġ   |   Ṙ   Ṡ   ║
+Ṡ   Ṙ   Ṡ   Ṡ   ║   N   N   |   D   P   ║
+D   D   P   M   ║   G   M   |   P   ,   ║
+G   P   D   Ṡ   ║   N   N   |   D   P   ║
+D   D   P   P   ║   M   G   |   R   S   ║
+Ṡ   ,   N   P   ║   D   D   |   Ṡ   ,   ║
+
+Sahityam
+
+Ṡ   ,   N   P   ║   D   D   |   Ṡ   ,   ║
+Man .   da  ra  ║   dha ra  |   re  .   ║
+D   Ṡ   Ṙ   Ġ   ║   Ṁ   Ġ   |   Ġ   Ṙ   ║
+Mo  .   kshamu  ║   ra  a   |   .   re  ║
+Ṡ   Ṙ   Ṡ   Ṡ   ║   N   N   |   D   P   ║
+Dhai.   thayku  ║   la  .   |  ntha ka  ║
+D   D   P   M   ║   G   M   |   P   ,   ║
+pa  .   va  na  ║   mu  ru  |   the .   ║
+G   P   D   Ṡ   ║   N   N   |   D   P   ║
+pa  da  shu bha ║   re  .   |   .   ka  ║
+D   D   P   P   ║   M   G   |   R   S   ║
+ma  ku  ta  ma  ║   yu  .   |   .   ra  ║
+G   P   P   D   ║   D   Ṡ   |   Ṡ   Ṙ   ║
+a   .   .   .   ║   a   .   |   .   .   ║
+Ṙ   Ṗ   Ṁ   Ġ   ║   Ṙ   Ġ   |   Ṙ   Ṡ   ║
+a   .   .   .   ║   a   .   |   .   .   ║
+Ṡ   Ṙ   Ṡ   Ṡ   ║   N   N   |   D   P   ║
+Dhai.   thayku  ║   la  .   |  ntha ka  ║
+D   D   P   M   ║   G   M   |   P   ,   ║
+pa  .   va  na  ║   mu  ru  |   the .   ║
+G   P   D   Ṡ   ║   N   N   |   D   P   ║
+pa  da  shu bha ║   re  .   |   .   ka  ║
+D   D   P   P   ║   M   G   |   R   S   ║
+ma  ku  ta  ma  ║   yu  .   |   .   ra  ║
+G   P   P   D   ║   D   Ṡ   |   Ṡ   Ṙ   ║
+Ṡ   ,   N   P   ║   D   D   |   Ṡ   ,   ║
+Man .   da  ra  ║   dha ra  |   re  .   ║

@@ -1,0 +1,124 @@
+Swaram
+
+Pallavi
+
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+S   ,   ,   R   G   ,   P   ,   ║   M   ,   ,   G   |   P   ,   D   ,   ║
+Ṙ   ,   ,   Ṡ   N   ,   D   ,   ║   P   ,   ,   M   |   G   ,   R   ,   ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+
+Charanam 1
+S   ,   ,   R   G   ,   G   ,   ║   G   ,   ,   ,   |   ,   ,   R   G   ║
+P   ,   ,   P   P   ,   P   ,   ║   P   ,   ,   ,   |   ,   ,   D   P   ║
+Ṡ   ,   ,   Ṡ   Ṡ   ,   Ṡ   ,   ║   Ġ   Ṙ   Ṡ   N   |   N   D   P   ,   ║
+P   D   P   M   G   G   R   ,   ║   G   P   M   G   |   R   S   R   G   ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+
+Charanam 2
+P   P   P   ,   R   R   R   ,   ║   G   P   M   G   |   G   ,   ,   ,   ║
+G   P   M   G   M   G   R   S   ║   R   G   R   S   |   S   ,   ,   ,   ║
+R   S   Ṇ   Ḍ   S   ,   ,   ,   ║   M   G   R   G   |   P   ,   ,   ,   ║
+D   P   D   Ṙ   Ṡ   ,   ,   ,   ║   Ṙ   Ṡ   N   D   |   P   M   G   R   ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+
+Charanam 3
+
+P   ,   ,   ,   M   G   R   G   ║   D   ,   ,   ,   |   M   G   R   G   ║
+P   ,   ,   ,   M   G   R   G   ║   P   ,   P   ,   |   P   ,   ,   ,   ║
+Ġ   ,   ,   ,   Ṙ   Ṡ   N   D   ║   Ṙ   ,   ,   ,   |   Ṙ   Ṡ   N   D   ║
+Ṡ   ,   ,   ,   Ṙ   Ṡ   N   D   ║   Ṡ   ,   Ṡ   ,   |   Ṡ   ,   ,   ,   ║
+Ġ   ,   Ṙ   Ṡ   Ṙ   ,   Ṙ   ,   ║   Ṙ   ,   ,   ,   |   Ṙ   ,   Ṡ   N   ║
+D   ,   D   ,   D   ,   ,   ,   ║   P   ,   M   G   |   G   ,   G   ,   ║
+G   ,   ,   ,   S   R   G   D   ║   P   ,   ,   ,   |   Ṙ   Ṡ   Ṙ   Ġ   ║
+Ṡ   ,   ,   ,   Ġ   Ṙ   Ṡ   N   ║   D   P   M   G   |   R   S   R   G   ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+
+Sahityam
+
+Pallavi
+
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+Ra  .   .   ra  ve  .   nu      ║   go  .   .   .   |   pa  .   la  .   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+Ra  .   ji  ta  sa  th  gu  na  ║   ja  ya  sh  ee  |   la  .   .   .   ║
+S   ,   ,   R   G   ,   P   ,   ║   M   ,   ,   G   |   P   ,   D   ,   ║
+Sa  .   .   ra  sa  .   ksha.   ║   ne  .   .   ra  |   me  .   mi  .   ║
+Ṙ   ,   ,   Ṡ   N   ,   D   ,   ║   P   ,   ,   M   |   G   ,   R   ,   ║
+ma  .   .   ru  ba  .   ri  .   ║   kor .   .   va  |   le  .   ra  .   ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+Ra  .   .   ra  ve  .   nu      ║   go  .   .   .   |   pa  .   la  .   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+Ra  .   ji  ta  sa  th  gu  na  ║   ja  ya  sh  ee  |   la  .   .   .   ║
+
+Charanam 1
+S   ,   ,   R   G   ,   G   ,   ║   G   ,   ,   ,   |   ,   ,   R   G   ║
+Nan .   .   da  go  .   pa  .   ║   la  .   .   .   |   .   .   ne  .   ║
+P   ,   ,   P   P   ,   P   ,   ║   P   ,   ,   ,   |   ,   ,   D   P   ║
+nen .   .   du  po  .   ja  .   ║   la  .   .   .   |   .   .   ne  .   ║
+Ṡ   ,   ,   Ṡ   Ṡ   ,   Ṡ   ,   ║   Ġ   Ṙ   Ṡ   N   |   N   D   P   ,   ║
+vin .   .   du  ra  .   ra  .   ║   sa  ta  ma  la  |   ma  di  lo  .   ║
+P   D   P   M   G   G   R   ,   ║   G   P   M   G   |   R   S   R   G   ║
+mu  da  ma  la  ra  ka  na  .   ║   ke  tu  ru  ga  |   ga  ti  ya  ra  ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+Ra  .   .   ra  ve  .   nu      ║   go  .   .   .   |   pa  .   la  .   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+Ra  .   ji  ta  sa  th  gu  na  ║   ja  ya  sh  ee  |   la  .   .   .   ║
+
+Charanam 2
+P   P   P   ,   R   R   R   ,   ║   G   P   M   G   |   G   ,   ,   ,   ║
+pa  lu  ma  .   ru  nu  ga  .   ║   ra  va  mu  na  |   nin .   .   .   ║
+G   P   M   G   M   G   R   S   ║   R   G   R   S   |   S   ,   ,   ,   ║
+pi  la  chi na  pa  lu  ka  vu  ║   na  lu  ka  gu  |   ra  .   .   .   ║
+R   S   Ṇ   Ḍ   S   ,   ,   ,   ║   M   G   R   G   |   P   ,   ,   ,   ║
+ka  ri  va  ra  da  .   .   .   ║   ma  ri  ma  ri  |   na  .   .   .   ║
+D   P   D   Ṙ   Ṡ   ,   ,   ,   ║   Ṙ   Ṡ   N   D   |   P   M   G   R   ║
+ya  da  ra  mu  kro .   .   .   ║   la  ra  ka  ni  |   ka  ra  mu  ga  ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+Ra  .   .   ra  ve  .   nu      ║   go  .   .   .   |   pa  .   la  .   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+Ra  .   ji  ta  sa  th  gu  na  ║   ja  ya  sh  ee  |   la  .   .   .   ║
+
+Charanam 3
+P   ,   ,   ,   M   G   R   G   ║   D   ,   ,   ,   |   M   G   R   G   ║
+Ra  .   .   .   na  ga  dha ra  ║   ra  .   .   .   |   mu  ra  ha  ra  ║
+P   ,   ,   ,   M   G   R   G   ║   P   ,   P   ,   |   P   ,   ,   ,   ║
+ra  .   .   .   bha va  ha  ra  ║   ra  .   ve  .   |   ra  .   .   .   ║
+
+Ġ   ,   ,   ,   Ṙ   Ṡ   N   D   ║   Ṙ   ,   ,   ,   |   Ṙ   Ṡ   N   D   ║
+ee  .   .   .   ma  gu  va  nu  ║   ee  .   .   .   |   la  la  la  nu  ║
+Ṡ   ,   ,   ,   Ṙ   Ṡ   N   D   ║   Ṡ   ,   Ṡ   ,   |   Ṡ   ,   ,   ,   ║
+ee  .   .   .   so  ga  si  ni  ║   che .   ko  .   |   ra  .   .   .   ║
+
+Ġ   ,   Ṙ   Ṡ   Ṙ   ,   Ṙ   ,   ║   Ṙ   ,   ,   ,   |   Ṙ   ,   Ṡ   N   ║
+ko  .   ri  ka  lim .   bon .   ║   da  .   .   .   |   den .   da  mu  ║
+D   ,   D   ,   D   ,   ,   ,   ║   P   ,   M   G   |   G   ,   G   ,   ║
+nee .   ya  .   na  .   .   .   ║   je  .   ra  nu  |   nin .   jen .   ║
+G   ,   ,   ,   S   R   G   D   ║   P   ,   ,   ,   |   Ṙ   Ṡ   Ṙ   Ġ   ║
+tha .   .   .   ma  ru  va  gu  ║   ra  .   .   .   |   ka  ra  mu  la  ║
+Ṡ   ,   ,   ,   Ġ   Ṙ   Ṡ   N   ║   D   P   M   G   |   R   S   R   G   ║
+che .   .   .   ma  ri  ma  ri  ║   ni  nu  cha ra  |   na  ne  da  ra  ║
+
+Pallavi
+S   ,   ,   R   G   ,   P   ,   ║   D   ,   Ṡ   ,   |   N   ,   D   ,   ║
+Ra  .   .   ra  ve  .   nu      ║   go  .   .   .   |   pa  .   la  .   ║
+P   ,   D   P   M   G   R   S   ║   R   S   N   D   |   S   ,   ,   ,   ║
+Ra  .   ji  ta  sa  th  gu  na  ║   ja  ya  sh  ee  |   la  .   .   .   ║
