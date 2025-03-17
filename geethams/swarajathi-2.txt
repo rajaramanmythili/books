@@ -1,0 +1,168 @@
+Swaram
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+Ṡ   ,   ,   R   N   ,   ,   S   |   D   ,   ,   N   |   P   ,   ,   D   ║
+M   ,   ,   P   M   ,   ,   G   |   ,   M   ,   P   |   ,   D   ,   N   ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+
+Charanam 1
+Ṡ   ,   Ṙ   ,   Ṡ   N   N   ,   |   Ṡ   ,   N   D   |   D   ,   N   ,   ║
+D   P   P   ,   D   ,   M   G   |   S   M   ,   G   |   M   P   D   N   ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+
+Charanam 2
+Ṡ   Ṙ   Ṡ   N   Ṡ   ,   ,   ,   |   N   Ṡ   N   D   |   N   ,   ,   ,   ║
+D   N   D   P   D   ,   ,   ,   |   P   D   P   M   |   P   ,   ,   ,   ║
+S   S   S   S   M   M   M   M   |   P   P   P   P   |   D   D   D   D   ║
+N   Ṡ   N   Ṡ   N   ,   D   P   |   D   P   M   G   |   M   P   D   N   ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+
+Charanam 3
+D   Ṡ   N   D   P   M   G   M   |   P   ,   ,   ,   |   P   D   N   D   ║
+P   M   G   G   M   ,   ,   ,   |   M   N   D   N   |   D   P   D   N   ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+
+Charanam 4
+Ṡ   ,   ,   ,   ,   ,   Ṡ   N   |   N   D   D   P   |   P   M   G   G   ║
+M   ,   ,   ,   ,   ,   P   D   |   N   D   M   G   |   M   P   D   N   ║
+Ṡ   Ṁ   Ġ   Ṡ   Ṡ   ,   Ṡ   ,   |   Ṡ   Ṙ   Ṡ   Ṡ   |   N   ,   N   ,   ║
+N   Ṡ   N   D   D   ,   D   ,   |   P   D   P   M   |   P   ,   P   ,   ║
+S   M   ,   M   G   P   ,   P   |   M   D   ,   D   |   P   N   ,   N   ║
+D   Ṙ   ,   Ṙ   N   Ṡ   ,   Ṡ   |   N   Ṡ   N   D   |   P   ,   ,   ,   ║
+M   ,   P   M   P   ,   D   P   |   D   ,   N   D   |   N   ,   Ṡ   N   ║
+Ṡ   ,   Ṙ   Ṡ   Ṙ   ,   Ṡ   N   |   Ṡ   Ṙ   Ṡ   ,   |   N   D   P   M   ║
+G   M   P   D   N   S   N   Ṙ   |   Ṡ   ,   ,   ,   |   Ṡ   Ṙ   N   Ṡ   ║
+D   N   P   D   M   ,   ,   ,   |   D   P   M   G   |   M   P   D   N   ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+
+Charanam 5 - Kanda Gathi
+Ṡ , Ṙ Ṡ ,   N , D N ,       Ṡ , N D ,   P , , , , |
+P , D N ,   D , P M ,   |   P M , G ,   M , , , , ║
+
+M , G M ,   P , M P ,       D , P D ,   N , D N , |
+Ṡ , Ṙ Ṡ ,   N , D N ,   |   Ṡ , N D ,   M , P D N ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+
+Sahityam
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+Sa  ,   .   .   m   .   ba  .   |   si  .   va  .   |   .   ya  na  .   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+ve  .   .   .   .   .   ra  .   |   ji  .   tha .   |   gi  .   ri  .   ║
+
+Ṡ   ,   ,   R   N   ,   ,   S   |   D   ,   ,   N   |   P   ,   ,   D   ║
+Sam .   .   ba  vi  .   .   ma  |   no  .   .   ha  |   ra  .   .   pa  ║
+M   ,   ,   P   M   ,   ,   G   |   ,   M   ,   P   |   ,   D   ,   N   ║
+ra  .   th  pa  ra  .   .   kru |   .   pa  .   ka  |   .   ra  .   sri ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+Sa  ,   .   .   m   .   ba  .   |   si  .   va  .   |   .   ya  na  .   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+ve  .   .   .   .   .   ra  .   |   ji  .   tha .   |   gi  .   ri  .   ║
+
+Charanam 1
+Ṡ   ,   Ṙ   ,   Ṡ   N   N   ,   |   Ṡ   ,   N   D   |   D   ,   N   ,   ║
+Nee .   ve  .   gu  ru  dai .   |   vam .   ba  ni  |   ye  .   ve  .   ║
+D   P   P   ,   D   ,   M   G   |   S   M   ,   G   |   M   P   D   N   ║
+la  nu  se  .   vim .   pu  su  |   sa  da  .   ma  |   di  ni  si  va  ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+Sa  ,   .   .   m   .   ba  .   |   si  .   va  .   |   .   ya  na  .   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+ve  .   .   .   .   .   ra  .   |   ji  .   tha .   |   gi  .   ri  .   ║
+
+Charanam 2
+Ṡ   Ṙ   Ṡ   N   Ṡ   ,   ,   ,   |   N   Ṡ   N   D   |   N   ,   ,   ,   ║
+Pa  ra  ma  da  ya  .   .   .   |   ni  di  va  nu  |   su  .   .   .   ║
+D   N   D   P   D   ,   ,   ,   |   P   D   P   M   |   P   ,   ,   ,   ║
+ma  ru  va  ka  na  .   .   .   |   hru da  ya  mu  |   na  .   .   .   ║
+S   S   S   S   M   M   M   M   |   P   P   P   P   |   D   D   D   D   ║
+Ma  ha  de  va  Ma  ha  pra bu  |   sun .   da  ra  |   na  .   ya  ka  ║
+N   Ṡ   N   Ṡ   N   ,   D   P   |   D   P   M   G   |   M   P   D   N   ║
+su  ra  va  ra  da  .   ya  ka  |   bha va  bha ya  |   ha  ra  si  va  ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+Sa  ,   .   .   m   .   ba  .   |   si  .   va  .   |   .   ya  na  .   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+ve  .   .   .   .   .   ra  .   |   ji  .   tha .   |   gi  .   ri  .   ║
+
+Charanam 3
+D   Ṡ   N   D   P   M   G   M   |   P   ,   ,   ,   |   P   D   N   D   ║
+sthira  Ma  du  ra  Pu  ra  mu  |   na  .   .   .   |   va  ra  mu  lo  ║
+P   M   G   G   M   ,   ,   ,   |   M   N   D   N   |   D   P   D   N   ║
+sa  gu  ha  ru  ni  .   .   .   |   ni  ra  ta  mu  |   nu  da  la  chi ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+Sa  ,   .   .   m   .   ba  .   |   si  .   va  .   |   .   ya  na  .   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+ve  .   .   .   .   .   ra  .   |   ji  .   tha .   |   gi  .   ri  .   ║
+
+Charanam 4
+Ṡ   ,   ,   ,   ,   ,   Ṡ   N   |   N   D   D   P   |   P   M   G   G   ║
+Shree   .   .   .   .   shu ba  |   ka  ra  sa  shi |   ma  ku  ta  da  ║
+M   ,   ,   ,   ,   ,   P   D   |   N   D   M   G   |   M   P   D   N   ║
+ra  .   .   .   .   .   ja  ya  |   vi  ja  ya  tri |   pu  ra  ha  ra  ║
+Ṡ   Ṁ   Ġ   Ṡ   Ṡ   ,   Ṡ   ,   |   Ṡ   Ṙ   Ṡ   Ṡ   |   N   ,   N   ,   ║
+Shrutha Ja  na  Lo  .   la  .   | thbhu ta  gu  na  |   shee.   la  .   ║
+N   Ṡ   N   D   D   ,   D   ,   |   P   D   P   M   |   P   ,   P   ,   ║
+kru ta  nu  tha ba  .   la  .   |   pa  thi thu ni  |   lo  .   la  .   ║
+S   M   ,   M   G   P   ,   P   |   M   D   ,   D   |   P   N   ,   N   ║
+Mu  dam .   ba  la  ran .   ga  |   pa  da  .  bja  |   mu  lan .   du  ║
+D   Ṙ   ,   Ṙ   N   Ṡ   ,   Ṡ   |   N   Ṡ   N   D   |   P   ,   ,   ,   ║
+pa  dam .   bu  lu  jer .   chu |   pa  shu pa  thi |   ni  .   .   .   ║
+M   ,   P   M   P   ,   D   P   |   D   ,   N   D   |   N   ,   Ṡ   N   ║
+Gnya.   na  mu  dhya.   na  mu  |   Sna .   na  mu  |   pa  .   na  mu  ║
+Ṡ   ,   Ṙ   Ṡ   Ṙ   ,   Ṡ   N   |   Ṡ   Ṙ   Ṡ   ,   |   N   D   P   M   ║
+da  .   na  mu  ma  .   na  mu  |   a   bhi ma  .   |   na  ma  na  su  ║
+G   M   P   D   N   S   N   Ṙ   |   Ṡ   ,   ,   ,   |   Ṡ   Ṙ   N   Ṡ   ║
+ka  ni  ka  ra  mu  na  cha ra  |   nam .   .   .   |   bu  lu  ka  nu  ║
+D   N   P   D   M   ,   ,   ,   |   D   P   M   G   |   M   P   D   N   ║
+ko  nu  sru thu lan .   .   .   |   nu  thu la  cha |   ra  na  nu  su  ║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+Sa  ,   .   .   m   .   ba  .   |   si  .   va  .   |   .   ya  na  .   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+ve  .   .   .   .   .   ra  .   |   ji  .   tha .   |   gi  .   ri  .   ║
+
+Charanam 5 - Kanda Gathi
+Ṡ , Ṙ Ṡ ,   N , D N ,       Ṡ , N D ,   P , , , , |
+Sa. rasa.   re. kuni.       na. maman   thram . . |
+P , D N ,   D , P M ,   |   P M , G ,   M , , , , ║
+ko. rina.   nu. nipa.   |  dabja. man   thram . . ║
+
+M , G M ,   P , M P ,       D , P D ,   N , D N , |
+da. sudow   chi nikrish     nu. niki.   dhi kuni  |
+Ṡ , Ṙ Ṡ ,   N , D N ,   |   Ṡ , N D ,   M , P D N ║
+ve. yani.   sok kana.   |   du. ninam   mu. ko. ni║
+
+Pallavi
+Ṡ   ,   ,   ,   Ṡ   ,   N   ,   |   D   ,   P   ,   |   ,   M   G   ,   ║
+Sa  ,   .   .   m   .   ba  .   |   si  .   va  .   |   .   ya  na  .   ║
+M   ,   ,   ,   ,   ,   G   ,   |   M   ,   P   ,   |   D   ,   N   ,   ║
+ve  .   .   .   .   .   ra  .   |   ji  .   tha .   |   gi  .   ri  .   ║
