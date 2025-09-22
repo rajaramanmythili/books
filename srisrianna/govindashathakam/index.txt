@@ -45,8 +45,8 @@ Pashyata nandabalam | Madhyamaavathi - Adi
 Bhajare gopalam | Danyasi - Adi
 Nrutyati paramatmaa | Punnagavarali - Adi
 Vaadayate muraleem | Senchurutti - Adi
-Kreedati brundaranye | Bhoopalam- Adi
-Bhagyamaho kila |Kaapi - Adi
+Kreedati brundaranye | Bhoopalam - Adi
+Bhagyamaho kila | Kaapi - Adi
 Gokularaja nandano vijayate | Kalyani - Adi
 Viharati haririha | Kamboji - Adi
 Manmatha manmatho | Arabhi - Adi
@@ -54,7 +54,7 @@ Kaatyayani devi | Kanada - Adi
 Prananamami sada | Bhoopalam - Adi
 Kreedati vanamali | Kamas - Adi
 Bhagyamaho bata | Simendramadyamam - Adi
-Paalayati swajanam |Aanandabhairavi - Adi
+Paalayati swajanam | Aanandabhairavi - Adi
 Pashyata pashyata | Senchurutti - Adi
 Aagaccha gopala | Darbar - Triputa
 Kaachidyamuna | Sindubairavi - Adi
@@ -73,11 +73,11 @@ Veekshe nu kada | Punnagavarali - Adi
 Veeksheham kada | Aahiri - Adi
 Govindam aham drkshyami | Kamboji - Adi
 Vilutathi brundatavyaam | Kaapi - Adi
-Mathuraam prayayau | Mohanam -Adi
+Mathuraam prayayau | Mohanam - Adi
 Vijayate Madhuraayaam | Kanada - Adi
 Haa hantha | Asaveri - Adi
 Veeksheham kada | Mukhari - Adi
-Veekshe kadaaham |Johnpuri - Adi
+Veekshe kadaaham | Johnpuri - Adi
 Kvasi kvasi | Simhendramadyamam - Adi
 Shuddham prema | Saranga - Adi
 Madhukara madhuraam | Karaharapriya - Adi
@@ -99,5 +99,3 @@ Aprakruta vatapatre | Sindubairavi - Adi
 Rukminideveem | Karaharapriya - Adi
 Vandanamastu te | Asaveri - Adi
 Gopikaramanaya | Punnagavarali - Jampa
-
-
